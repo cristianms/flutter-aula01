@@ -15,6 +15,7 @@ class HelloListView extends StatefulWidget {
 }
 
 class _HelloListViewState extends State<HelloListView> {
+
   bool _gridView = true;
 
   @override
